@@ -17,7 +17,7 @@
 - Jogador de FPS nas horas vagas.
 - Atualmente estudando sobre back-end.
 - Meu site pessoal [link](https://www.igorregis.com)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- Atualmente estou em busca para oportunidades de estágio ou empregos na área. Este é [meu curriculo](https://igorregis.com/curriculo)
 
 <br><br>
 
@@ -28,9 +28,9 @@
 
 <p align="center">
 
-- **Languages**:
+- **Linguagens**:
     
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+    ![PHP](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 

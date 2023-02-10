@@ -7,9 +7,9 @@
 
 
 	
-## <picture><img src = "https://github.com/0xabdulkhalid/0xabdulkhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mim**
+## <picture><img src = "https://imgur.com/aBEWwoC" width = 50px></picture> **Sobre mim**
 
-<picture> <img align="right" src="https://github.com/0xabdulkhalid/0xabdulkhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://imgur.com/MDU8ErS" width = 250px></picture>
 </center>
 <br>
 
@@ -73,7 +73,7 @@
 <br>
 <br>
 
-## <b> Conecte-se comigo </b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Conecte-se comigo </b><img src="https://imgur.com/BOHqQ8w" width ="80">
 <br>
 <div align='left'>
 

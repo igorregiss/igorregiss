@@ -7,9 +7,9 @@
 
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mim**
+## <picture><img src = "https://github.com/igorregiss/igorregiss/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mim**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/igorregiss/igorregiss/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 </center>
 <br>
 

@@ -9,7 +9,7 @@
 	
 ## <picture><img src = "https://raw.githubusercontent.com/igorregiss/assets/main/about_me.gif?token=GHSAT0AAAAAAB6PQDXVUFQMQRKIJK3R64A2Y7FUT7A" width = 50px></picture> **Sobre mim**
 
-<picture> <img align="right" src="https://imgur.com/MDU8ErS" width = 250px></picture>
+<picture> <img align="right" src="https://raw.githubusercontent.com/igorregiss/assets/main/Right_Side.gif?token=GHSAT0AAAAAAB6PQDXUDSS4MJKNWHVM73RKY7FUUTA" width = 250px></picture>
 </center>
 <br>
 
@@ -21,7 +21,7 @@
 
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://raw.githubusercontent.com/igorregiss/assets/main/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif?token=GHSAT0AAAAAAB6PQDXV2R2NIJKT5735S3TWY7FUVGQ"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
@@ -73,7 +73,7 @@
 <br>
 <br>
 
-## <b> Conecte-se comigo </b><img src="https://imgur.com/BOHqQ8w" width ="80">
+## <b> Conecte-se comigo </b><img src="https://raw.githubusercontent.com/igorregiss/assets/main/handshake.gif?token=GHSAT0AAAAAAB6PQDXUSMGISVNLJCHWIVLKY7FUVWA" width ="80">
 <br>
 <div align='left'>
 

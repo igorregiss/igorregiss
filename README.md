@@ -7,7 +7,7 @@
 
 
 	
-## <picture><img src = "https://imgur.com/aBEWwoC" width = 50px></picture> **Sobre mim**
+## <picture><img src = "https://raw.githubusercontent.com/igorregiss/assets/main/about_me.gif?token=GHSAT0AAAAAAB6PQDXVUFQMQRKIJK3R64A2Y7FUT7A" width = 50px></picture> **Sobre mim**
 
 <picture> <img align="right" src="https://imgur.com/MDU8ErS" width = 250px></picture>
 </center>

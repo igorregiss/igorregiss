@@ -80,7 +80,7 @@
 <ul>
 
 <li>
-<a href="https://linkedin.com/in/igorregiss" target="_blank">
+<a href="https://www.linkedin.com/in/igor-regis-979939237/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  igorregiss-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>

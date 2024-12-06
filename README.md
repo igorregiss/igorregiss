@@ -16,7 +16,7 @@
 - Um desenvolvedor front-end apaixonado por WEB.
 - Jogador de FPS nas horas vagas.
 - Atualmente estudando sobre back-end.
-- [Meu site](https://www.igorregis.com)
+- [Meu site](https://www.igorregis.tech)
 - Atualmente estou em busca para oportunidades de estágio ou empregos na área. Este é [meu curriculo](https://igorregis.com/curriculo)
 
 <br><br>

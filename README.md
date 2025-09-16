@@ -16,7 +16,7 @@
 - Um desenvolvedor front-end apaixonado por WEB.
 - Jogador de FPS nas horas vagas.
 - Atualmente estudando sobre back-end.
-- [Meu portfolio](https://www.igorregis.tech)
+<!-- - [Meu portfolio](https://www.igorregis.tech)-->
 <br><br>
 
 <img src="https://raw.githubusercontent.com/igorregiss/assets/main/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif?token=GHSAT0AAAAAAB6PQDXV2R2NIJKT5735S3TWY7FUVGQ"><br><br>
